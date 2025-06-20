@@ -1,4 +1,4 @@
-## HHi there! 👋, I'm Phạm Hoàng Tiến, a Data Science student at Saigon University. I'm passionate about data and currently on a journey to become a data engineer.
+## Hi there! 👋, I'm Phạm Hoàng Tiến, a Data Science student at Saigon University. I'm passionate about data and currently on a journey to become a data engineer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phttechnology/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@phttechnology) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pht.connectme@gmail.com) 
