@@ -11,5 +11,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phtzone&show_icons=true&locale=en" alt="phtzone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phtzone&" alt="phtzone" /></p>
-
